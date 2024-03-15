@@ -41,6 +41,7 @@ Developed by: RegisterNumber:*/
 **RTL realization**
 
 **Output:**
+![image](https://github.com/Shruthidn27/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849783/76519235-93a2-44ec-ba35-3890ae112adb)
 
 **RTL**
 
